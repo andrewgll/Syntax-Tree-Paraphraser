@@ -3,3 +3,4 @@
 ```
 python3 start.py
 ```
+you may also need nltk and flask
